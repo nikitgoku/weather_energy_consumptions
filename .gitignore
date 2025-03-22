@@ -1,0 +1,10 @@
+*.env
+airflow/
+spark/
+__pycache__/
+*.pyc
+*.log
+*.pid
+*.pid.lock
+*.log.*
+*.log
